@@ -1,0 +1,18 @@
+.container2 {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #f2d2ed;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px #0000001a;
+    font-family: sans-serif;
+}
+.heading {
+    text-align: center;
+    font-size: "24px";
+    margin-bottom: "20px";
+    color: #333;
+}
+.content {
+    line-height: 1.6;
+}

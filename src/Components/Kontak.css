@@ -1,0 +1,15 @@
+.container4 {
+    background-color: #f2d2ed;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px #0000001a;
+    padding: 20px;
+    max-width: 600px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-Items: center;
+    height: 60vh;
+    text-Align: center;
+    font-family: sans-serif;
+}
